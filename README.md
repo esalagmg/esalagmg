@@ -40,11 +40,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=esalagmg&theme=github-dark-blue&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esalagmg&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esalagmg&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-</p>
