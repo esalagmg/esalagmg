@@ -35,8 +35,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## 🔥 Contribution Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=esalagmg&theme=github-dark-blue&hide_border=true&border_radius=15&card_width=900" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=esalagmg&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esalagmg&layout=compact&theme=github_dark&hide_border=true&border_radius=15"/>
+
 </p>
