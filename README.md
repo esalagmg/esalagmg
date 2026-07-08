@@ -35,12 +35,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## 📊 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=esalagmg&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esalagmg&layout=compact&theme=github_dark&hide_border=true&border_radius=15"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esalagmg&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esalagmg&layout=compact&theme=github_dark&hide_border=true&border_radius=15"/>
 </p>
