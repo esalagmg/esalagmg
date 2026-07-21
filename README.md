@@ -34,14 +34,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-six-khaki-73.vercel.app/api?username=esalagmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
+    (https://YOUR_PROJECT.vercel.app/api?username=esalagmg)
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-six-khaki-73.vercel.app/api/top-langs/?username=esalagmg&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+
