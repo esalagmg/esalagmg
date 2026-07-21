@@ -34,21 +34,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-six-khaki-73.vercel.app/api?username=esalagmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=esalagmg&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esalagmg&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=esalagmg&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
 
