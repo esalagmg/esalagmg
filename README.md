@@ -28,9 +28,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevAnuhas&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DevAnuhas&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnuhas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=esalagmg&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=esalagmg&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esalagmg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
