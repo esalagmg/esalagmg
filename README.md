@@ -34,7 +34,7 @@
 
 <p align="center">
   <img
-    (https://YOUR_PROJECT.vercel.app/api?username=esalagmg)
+  [  (https://YOUR_PROJECT.vercel.app/api?username=esalagmg)](https://github-readme-stats-six-khaki-73.vercel.app/api?username=esalagmg&show_icons=true)
   />
 </p>
 
