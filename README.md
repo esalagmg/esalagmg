@@ -41,13 +41,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-six-khaki-73.vercel.app/api/top-langs/?username=esalagmg&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=esalagmg&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
