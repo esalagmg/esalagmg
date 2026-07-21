@@ -33,6 +33,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  const githubStats =
-  "https://my-github-stats.vercel.app/api?username=esalagmg";
+  <img
+    src="https://github-readme-stats-six-khaki-73.vercel.app/api?username=esalagmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-six-khaki-73.vercel.app/api/top-langs/?username=esalagmg&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
