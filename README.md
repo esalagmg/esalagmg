@@ -33,5 +33,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=esalagmg
+  const githubStats =
+  "https://my-github-stats.vercel.app/api?username=esalagmg";
 </p>
